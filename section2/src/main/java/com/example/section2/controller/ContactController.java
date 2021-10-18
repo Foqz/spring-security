@@ -10,5 +10,4 @@ public class ContactController {
 	public String saveContactInquiryDetails(String input) {
 		return "Inquiry details are saved to the DB";
 	}
-
 }
